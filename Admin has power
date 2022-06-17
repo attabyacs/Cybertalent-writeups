@@ -18,7 +18,6 @@ solution:
 if we open the link we will see a simple login page looks like this
 
 ![133928337-0ec7fba6-fe61-4a4a-9b99-9d08a65152c6](https://user-images.githubusercontent.com/107189760/174202728-eebf7fd0-8041-4416-95e1-840486ea74eb.png)
-1
 
 so first we need to see the page source to see under the hood so when we look to the source code we will see that the 
 developer forget to remove this comment 
